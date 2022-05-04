@@ -1,0 +1,3 @@
+icon: https://assets.clever.com/oauth/0fda7b8bd9b4f8e3fd3c5a9264c8e2bb01d90016/favicon.ico?1
+text: Clever | Portal
+https://dnttsunami.herokuapp.com/
